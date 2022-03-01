@@ -47,6 +47,9 @@ main {
 
 .header-img-container {
     position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border-radius: 10px;
     background-color: var(--cyan);
 }
@@ -54,14 +57,10 @@ main {
 .main-img {
     width: 100%;
     border-radius: 10px;
-    display: block;
 }
 
 .eye-img {
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     opacity: 0;
 }
 
