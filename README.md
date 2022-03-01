@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/PiperRc/NFT-PREVIEW-CARD)
+- [Live Site URL](https://piperrc.github.io/NFT-PREVIEW-CARD/)
 
 ## My process
 
