@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](https://github.com/PiperRc/NFT-PREVIEW-CARD/blob/main/screenshot/screenshot.png)
 
 ### Links
 
