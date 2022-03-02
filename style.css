@@ -68,6 +68,11 @@ main {
     cursor: pointer;
 }
 
+.main-img,
+.eye-img {
+    transition: 2s;
+}
+
 .header-img-container:hover .main-img {
     opacity: .5;
 }
